@@ -9,10 +9,6 @@
 - The website has a page that displays the top scores of all registered users.
 - User data and scores are stored in JSON format using HTML local storage.
 - PHP functions are used to output navigation menus, footers, etc.
-- You are welcome to use third party libraries, such as jQuery, Bootstrap or a JavaScript game engine. You
-should check with the module leader if a third party library is used for a substantial amount of the
-functionality of your website.
-
 
 In a nutshell, the aim of the game is to get across to the other side of the field without getting hit by the moving bullets (speed of the bullets is proportional to the player's points). Collision detection, controls and other functions used.
 
